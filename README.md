@@ -2,7 +2,7 @@
 
 
 ```
-go run main.go test
+go run main.go word_to_write
 
 test
 ```
